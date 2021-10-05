@@ -1,4 +1,4 @@
-# LaraRepository (Design Patterns)
+# Laravel Repository (Design Patterns)
 Example Of Laravel repository pattern 
 
 
